@@ -1,0 +1,16 @@
+{
+    "name": "cyanwings/package-test",
+    "description": "第一次写package包，测试一下",
+    "autoload": {
+        "psr-4": {
+            "Cyanwings\\PackageTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cyan Wings",
+            "email": "cyan.wings@foxmail.com"
+        }
+    ],
+    "require": {}
+}
